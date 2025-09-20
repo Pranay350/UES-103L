@@ -1,10 +1,13 @@
-//Name --> Vandan Gupta
-//batch 1A32
+//Name --> Pranay Jain 
+//batch --> A32
 #include<stdio.h>
+
 int main() {
-    char vandan_gupta;
-    int rollnumber=1025030171;
+    char pranay_jain[]="Pranay Jain";
+    int rollnumber=1025030168;
+
     char ch;
+    
     printf("enter a character: ");
     scanf("%c",&ch);
     int x = (int)ch;
