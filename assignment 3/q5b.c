@@ -1,10 +1,8 @@
-//Name --> Pranay Jain
-//batch 1A32
+
 #include <stdio.h>
 
 int main() {
-    char Pranay_jain;
-    int rollnumber=1025030168;
+   
     int x;
     printf("enter a number:  ");
     scanf("%d",&x);
